@@ -1,3 +1,4 @@
+# encoding: utf-8
 Gem::Specification.new do |s|
   s.name = "social_stream-documents"
   s.version = "0.2.4"
